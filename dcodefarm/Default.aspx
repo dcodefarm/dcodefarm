@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>DCodeFarm</h1>
-        <p class="lead">DCodeFarm is platform for IT Professional to share and explore their knowledge with other IT People.</p>
+        <p class="lead">DCodeFarm is platform for IT Professional to share and explore their knowledge with other IT People. Mixing all practical implementation with examples... </p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
